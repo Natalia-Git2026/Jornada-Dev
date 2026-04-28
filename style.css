@@ -27,3 +27,16 @@ footer{
     padding: 10px;
 }
 
+@media (max-width: 600px){
+    body{
+        margin-top: 40px;
+    }
+
+    h1{
+        font-size: 28px;
+    }
+
+    main{
+        margin: 20px auto;
+    }
+}
